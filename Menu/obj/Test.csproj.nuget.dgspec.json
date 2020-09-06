@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AmNI5TIa\\Desktop\\SimpleArtificialNeuron\\Neuron\\Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AmNI5TIa\\Desktop\\SimpleArtificialNeuron\\Neuron\\Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AmNI5TIa\\Desktop\\SimpleArtificialNeuron\\Neuron\\Test.csproj",
+        "projectName": "Test",
+        "projectPath": "C:\\Users\\AmNI5TIa\\Desktop\\SimpleArtificialNeuron\\Neuron\\Test.csproj",
+        "packagesPath": "C:\\Users\\AmNI5TIa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AmNI5TIa\\Desktop\\SimpleArtificialNeuron\\Neuron\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AmNI5TIa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

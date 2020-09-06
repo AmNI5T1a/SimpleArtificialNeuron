@@ -1,0 +1,11 @@
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\Neuron\bin\Debug\netcoreapp2.1\Test.deps.json
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\Neuron\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\Neuron\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\Neuron\bin\Debug\netcoreapp2.1\Test.dll
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\Neuron\bin\Debug\netcoreapp2.1\Test.pdb
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\Neuron\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\Neuron\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\Neuron\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\Neuron\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\Neuron\obj\Debug\netcoreapp2.1\Test.dll
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\Neuron\obj\Debug\netcoreapp2.1\Test.pdb

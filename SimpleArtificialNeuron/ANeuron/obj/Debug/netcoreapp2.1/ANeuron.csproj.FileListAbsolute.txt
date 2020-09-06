@@ -1,0 +1,11 @@
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\ANeuron\obj\Debug\netcoreapp2.1\ANeuron.csprojAssemblyReference.cache
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\ANeuron\obj\Debug\netcoreapp2.1\ANeuron.csproj.CoreCompileInputs.cache
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\ANeuron\obj\Debug\netcoreapp2.1\ANeuron.AssemblyInfoInputs.cache
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\ANeuron\obj\Debug\netcoreapp2.1\ANeuron.AssemblyInfo.cs
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\ANeuron\bin\Debug\netcoreapp2.1\ANeuron.deps.json
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\ANeuron\bin\Debug\netcoreapp2.1\ANeuron.runtimeconfig.json
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\ANeuron\bin\Debug\netcoreapp2.1\ANeuron.runtimeconfig.dev.json
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\ANeuron\bin\Debug\netcoreapp2.1\ANeuron.dll
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\ANeuron\bin\Debug\netcoreapp2.1\ANeuron.pdb
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\ANeuron\obj\Debug\netcoreapp2.1\ANeuron.dll
+C:\Users\AmNI5TIa\Desktop\SimpleArtificialNeuron\ANeuron\obj\Debug\netcoreapp2.1\ANeuron.pdb
